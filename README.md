@@ -1,2 +1,2 @@
 # Test
-This ia new repository that I'm making for The Missing Semester.
+This is new repository that I'm making for The Missing Semester.
